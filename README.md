@@ -37,6 +37,12 @@
 
 ---
 
+## 📜 Certifications
+
+
+
+---
+
 ## 📝 Articles & Tutorials
 
 - [JavaScript 101: Talking to the Browser](https://medium.com/@donaldericclemons/javascript-101-talking-to-the-browser-dc0a1ddeb07d)  
