@@ -38,7 +38,9 @@
 ---
 
 ## 📜 Certifications
-
+- [Software Engineering Certification](https://www.credential.net/e22f3a0b-70d6-4d93-98cb-fc6afee706e5#acc.KD6l5mg9)
+- [Back-End Specialist Certification](https://www.credential.net/a84d07ec-9054-46ba-8441-dd5c7e0e54e6#acc.3V9zgaeD)
+- [Tech Residency Certification](https://www.credential.net/4c58e7d3-a417-43cf-ac27-9bc5adf8854c#acc.aJfxY6Ri)
 
 
 ---
