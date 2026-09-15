@@ -19,9 +19,11 @@
 
 ### **Fumbled Hearts** 💞 
 **Tech:** Typescript | CSS | CI/CD
--A modern e-commerce platform redefining fashion for the digital generation
--[Live Site View](https://fumbled-hearts.vercel.app/)
--[View Repository](https://github.com/TheRealPharaohFresh/fumbled-hearts)
+- A modern e-commerce platform redefining fashion for the digital generation.
+- [Live Site View](https://fumbled-hearts.vercel.app/)
+- [View Repository](https://github.com/TheRealPharaohFresh/fumbled-hearts)
+
+---
 
 
 ### **AI Chatbot for Hospitals** 🏥🤖
