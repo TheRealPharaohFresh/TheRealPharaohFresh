@@ -9,6 +9,12 @@
 
 ## 👨‍💻 Software Development Projects
 
+### **MyMechanicShop API** 🔧⚙️
+**Tech:** Flask | Python | SQL  
+- Built a robust API to manage mechanics, service tickets, and inventory, featuring authentication, advanced queries, and CRUD operations.  
+- [View Repository](https://github.com/TheRealPharaohFresh/MyMechanicShop)
+- [Swagger Docs](https://mymechanicshop.onrender.com/api/docs/)
+
 ### **AI Chatbot for Hospitals** 🏥🤖
 **Tech:** React | Firebase | AI  
 - Developed an AI-powered chatbot in 8 weeks for hospital use. Led frontend development and integrated backend services for a smooth, interactive experience.  
@@ -27,15 +33,6 @@
 **Tech:** HTML | CSS | JavaScript | Bootstrap  
 - Contract project for a photography studio website with responsive design, interactive UI, and modern web features.  
 - [View Repository](https://github.com/TheRealPharaohFresh/StarrLightStudiosWebsite)
-
----
-
-### **MyMechanicShop API** 🔧⚙️
-**Tech:** Flask | Python | SQL  
-- Built a robust API to manage mechanics, service tickets, and inventory, featuring authentication, advanced queries, and CRUD operations.  
-- [View Repository](https://github.com/TheRealPharaohFresh/MyMechanicShop)
-
----
 
 ## 📜 Certifications
 - [Software Engineering Certification](https://www.credential.net/e22f3a0b-70d6-4d93-98cb-fc6afee706e5#acc.KD6l5mg9)
