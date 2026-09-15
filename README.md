@@ -15,6 +15,15 @@
 - [View Repository](https://github.com/TheRealPharaohFresh/MyMechanicShop)
 - [Swagger Docs](https://mymechanicshop.onrender.com/api/docs/)
 
+---
+
+### **Fumbled Hearts** 💞 
+**Tech:** Typescript | CSS | CI/CD
+-A modern e-commerce platform redefining fashion for the digital generation
+-[Live Site View](https://fumbled-hearts.vercel.app/)
+-[View Repository](https://github.com/TheRealPharaohFresh/fumbled-hearts)
+
+
 ### **AI Chatbot for Hospitals** 🏥🤖
 **Tech:** React | Firebase | AI  
 - Developed an AI-powered chatbot in 8 weeks for hospital use. Led frontend development and integrated backend services for a smooth, interactive experience.  
